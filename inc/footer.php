@@ -1,0 +1,1 @@
+</section><section class="footeroption text-center"><?php echo "Axcora Technology"; ?></section></div><script src='https://cdn.jsdelivr.net/npm/vue/dist/vue.js'></script><script src='https://bstp.sourceforge.io/gallerya.js'></script></body></html>
