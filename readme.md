@@ -26,7 +26,7 @@ Semakin mudah dengan optional pilihan jawaban untuk murid dalam menjawab pertany
 
 All in one aplikasi e-learn online siap digunakan untuk SD , SMP , SMA ,SMK dan lain nya, mudah dalam installasi dan mudah dalam digunakan untuk proses belajar mengajar, selain itu aplikasi ini 100% gratis tanpa syarat persembahan dari axcora technology axcora school apps untuk dunia pendidikan indonesia agar terus maju pada dunia digital khusus nya.
 
-### CaraInstallasi
+### Cara Installasi
 1. Pastikan sudah memiliki domain dan hosting untuk melakukan upload dan installasi aplikasi ini via clouds hosting.
 2. Atau gunakan localhost jika ingin bekerja secara offline dengan XAMPP server
 3. Buat folder baru dan namai dengan e-learnonline pada public_html hosting / localhost
@@ -53,4 +53,5 @@ Dan untuk aplikasi pembuatan website gratis juga kami develope untuk sekolah ind
 Kebutuhan aplikasi sekolah dan pembuatan website sekolah lebih kompleks hubungi kami dan konsultasikan kebutuhan anda.
 Whatsapp : +6285646104747
 Call : +6285331361404
+
 [https://axcora.com/sekolah.html](https://axcora.com/sekolah.html)
