@@ -1,5 +1,7 @@
 # Aplikasi E-Learn Gratis untuk Sekolah
 
+untuk bantuan dokumentasi penggunaan : https://www.hockeycomputindo.com/2020/12/aplikasi-e-learn-online-gratis-download.html
+
 ![Aplikasi E-learn sekolah online gratis](https://2.bp.blogspot.com/-qMv0G3yldTk/XS9kKKfMbgI/AAAAAAAABP8/nE-r8B1kujolP2u-Awwr3Pi2jFXggUrlQCK4BGAYYCw/s600/axcora%2Bdesign%2Bpembuatan%2Bwebsite%2Bblogspot%2Btemplate.gif)
 
 Persembahan dari axcora tehcnology untuk dunia pendidikan dan sekolah indonesia, agar memudahkan proses belajar mengajar secara online, tersedia area guru untuk membuat soal dan area siswa untuk kebutuhan menjawab tugas ujian dan soal secara online.
@@ -47,6 +49,8 @@ All in one aplikasi e-learn online siap digunakan untuk SD , SMP , SMA ,SMK dan 
 [Penjelasan detail aplikasi ini disini](https://axcora.com/e-learndownload/)
 
 Aplikasi e-learn online gratis untuk sekolah persembahan dari axcora technology - [Detail Informasi](https://axcora.com/sekolah.html)
+
+untuk bantuan dokumentasi penggunaan : https://www.hockeycomputindo.com/2020/12/aplikasi-e-learn-online-gratis-download.html
 
 Dan untuk aplikasi pembuatan website gratis juga kami develope untuk sekolah indonesia , dan tentunya juga gratis tanpa syarat untuk kemajuan dunia pendidikan indonesia di bidang digital [Download disini](https://github.com/mesinkasir/aplikasipembuatanwebsitesekolahgratis)
 
