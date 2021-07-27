@@ -6,25 +6,11 @@ untuk bantuan dokumentasi penggunaan : https://www.hockeycomputindo.com/2020/12/
 
 Persembahan dari axcora tehcnology untuk dunia pendidikan dan sekolah indonesia, agar memudahkan proses belajar mengajar secara online, tersedia area guru untuk membuat soal dan area siswa untuk kebutuhan menjawab tugas ujian dan soal secara online.
 
-Dengan installasi online clouds menyempurnakan kebutuhan akses akan multi device platfom baik akses via smartphone android iphone hingga via laptop pc desktop dalam kebutuhan e-learn online.
-
-![Aplikasi E-learn sekolah online gratis](https://a.fsdn.com/con/app/proj/aplikasi-e-learn-online-gratis/screenshots/aplikasi%20elarning%20online%20gratis%20download.png/max/max/1)
-
-Dashboard backoffice dari guru dengan berbagai fitur lengkap untuk kebutuhan cek daftar siswa, bank soal , memasukan dan membuat soal ujian baru , dan log out system aplikasi e-learn online.
-
-![Aplikasi E-learn sekolah online gratis](https://a.fsdn.com/con/app/proj/aplikasi-e-learn-online-gratis/screenshots/aplikasi%20elarning%20online%20gratis%20download.jpg/max/max/1)
-
-System untuk membuat pertanyaan soal ujian dengan optional pilihan dan jawaban benar memudahkan guru dengan cepat untuk membuat materi soal sesuai kebutuhan untuk kurikulum.
-
-![Aplikasi E-learn sekolah online gratis](https://a.fsdn.com/con/app/proj/aplikasi-e-learn-online-gratis/screenshots/aplikasi%20elarning%20sekolah%20online%20gratis%20download.png/max/max/1)
-
-Area siswa dengan system login untuk melakukan aktivitas belajar memudahkan untuk memulai pelajaran dengan materi soal dari guru.
-
-![Aplikasi E-learn sekolah online gratis](https://a.fsdn.com/con/app/proj/aplikasi-e-learn-online-gratis/screenshots/aplikasi%20elarning%20sekolah%20online%20gratis%20download.jpg/max/max/1)
-
-Semakin mudah dengan optional pilihan jawaban untuk murid dalam menjawab pertanyaan soal dan ujian dengan cara klik pilihan , semakin simple digunakan dalam proses belajar mengajar via E-Learn online apps ini, dan tentunya dengan hasil dari pertanyaan benar yang terjawab secara langsung real time online.
-
-![Aplikasi E-learn sekolah online gratis](https://a.fsdn.com/con/app/proj/aplikasi-e-learn-online-gratis/screenshots/aplikasi%20elarning%20sekolah%20sd%20smp%20sma%20online%20gratis%20download.jpg/max/max/1)
++ Dengan installasi online clouds menyempurnakan kebutuhan akses akan multi device platfom baik akses via smartphone android iphone hingga via laptop pc desktop dalam kebutuhan e-learn online.
++ Dashboard backoffice dari guru dengan berbagai fitur lengkap untuk kebutuhan cek daftar siswa, bank soal , memasukan dan membuat soal ujian baru , dan log out system aplikasi e-learn online.
++ System untuk membuat pertanyaan soal ujian dengan optional pilihan dan jawaban benar memudahkan guru dengan cepat untuk membuat materi soal sesuai kebutuhan untuk kurikulum.
++ Area siswa dengan system login untuk melakukan aktivitas belajar memudahkan untuk memulai pelajaran dengan materi soal dari guru.
++ Semakin mudah dengan optional pilihan jawaban untuk murid dalam menjawab pertanyaan soal dan ujian dengan cara klik pilihan , semakin simple digunakan dalam proses belajar mengajar via E-Learn online apps ini, dan tentunya dengan hasil dari pertanyaan benar yang terjawab secara langsung real time online.
 
 All in one aplikasi e-learn online siap digunakan untuk SD , SMP , SMA ,SMK dan lain nya, mudah dalam installasi dan mudah dalam digunakan untuk proses belajar mengajar, selain itu aplikasi ini 100% gratis tanpa syarat persembahan dari axcora technology axcora school apps untuk dunia pendidikan indonesia agar terus maju pada dunia digital khusus nya.
 
@@ -56,6 +42,5 @@ Dan untuk aplikasi pembuatan website gratis juga kami develope untuk sekolah ind
 
 Kebutuhan aplikasi sekolah dan pembuatan website sekolah lebih kompleks hubungi kami dan konsultasikan kebutuhan anda.
 Whatsapp : +6285646104747
-Call : +6285331361404
 
 [https://axcora.com/sekolah.html](https://axcora.com/sekolah.html)
